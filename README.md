@@ -4,7 +4,9 @@
 
 Run command `npm i` when you have already cloned this test repository
 
-After go to the client repository and run there two commands: `npm i` and `npm start`.
+After go to the client directory using `cd client` and run there two commands: `npm i` and `npm start`.
+
+After you can see two profiles 
 
 In file `server/.env` you can see the envs which you need to change to your env keys of your account and dashboard.
 
