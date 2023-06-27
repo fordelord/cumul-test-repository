@@ -8,7 +8,7 @@ After go to the client directory using `cd client` and run there two commands: `
 
 After you can see two profiles 
 
-In file `server/.env` you can see the envs which you need to change to your env keys of your account and dashboard.
+In file `server/.env` you can see the envs which you need to change your env keys of your account and dashboard.
 
 ## Where can I get the env keys? 
 
